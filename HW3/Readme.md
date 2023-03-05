@@ -8,9 +8,11 @@ Steps:
 
 ## Results:
 Following are the images of the detected keypoints in an image and the keypoints traversal in the sequence of images.
+ <br />
 ![sfm_hw](https://user-images.githubusercontent.com/78075049/222945669-23f47b40-8212-4d1e-8090-675d808dca2c.jpg)
 
 Following is the image of the 3D point cloud generated from the sequence of points.
+ <br />
 ![3d](https://user-images.githubusercontent.com/78075049/222945754-830b907a-fd6d-41dc-81fe-eb21e9f7d2fc.png)
 
 
