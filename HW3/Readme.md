@@ -6,7 +6,7 @@ Steps:
 2.  Programmed a Kanade-Lucas-Tomasi feature tracker from scratch to track a set of detected key points in an image over a sequence of images.
 3.  Generated 3D points for the object by computing affine(motion) and 3D shape matrices from the tracked 2D keypoints.
 
-Results:
+## Results:
 ![sfm_hw](https://user-images.githubusercontent.com/78075049/222945669-23f47b40-8212-4d1e-8090-675d808dca2c.jpg)
 
 
